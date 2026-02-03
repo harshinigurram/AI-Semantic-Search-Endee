@@ -1,0 +1,5 @@
+Deep learning is a subset of machine learning that uses neural networks with many layers.
+
+Deep learning models are inspired by the structure of the human brain.
+
+Deep learning is widely used in image recognition and natural language processing.

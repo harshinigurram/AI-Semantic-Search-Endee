@@ -1,0 +1,5 @@
+Java is a high-level, object-oriented programming language.
+
+Java is platform independent due to its use of the Java Virtual Machine.
+
+Java is widely used for enterprise applications, Android development, and web services.

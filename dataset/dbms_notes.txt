@@ -1,0 +1,5 @@
+DBMS stands for Database Management System used to store and manage data efficiently.
+
+A DBMS provides data security, consistency, and efficient data retrieval.
+
+Examples of DBMS include MySQL, PostgreSQL, Oracle, and MongoDB.

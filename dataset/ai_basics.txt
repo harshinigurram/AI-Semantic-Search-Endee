@@ -1,0 +1,5 @@
+Artificial Intelligence is the simulation of human intelligence in machines.
+
+AI enables machines to perform tasks such as reasoning, learning, and decision making.
+
+Artificial Intelligence focuses on creating systems that can mimic human cognitive abilities.

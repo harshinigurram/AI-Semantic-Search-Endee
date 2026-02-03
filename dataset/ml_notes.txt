@@ -1,0 +1,5 @@
+Machine learning is a subset of artificial intelligence that allows systems to learn from data.
+
+Machine learning algorithms improve automatically through experience.
+
+Supervised, unsupervised, and reinforcement learning are types of machine learning.

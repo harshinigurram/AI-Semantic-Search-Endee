@@ -1,0 +1,5 @@
+Web development involves building and maintaining websites and web applications.
+
+Frontend web development focuses on HTML, CSS, and JavaScript.
+
+Backend web development handles server-side logic using technologies like Python, Java, and Node.js.
